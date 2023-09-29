@@ -7,3 +7,23 @@
 
 
 TRABALHOS DE INFORMATICA 1 SEMESTRE GPI
+
+>Exercicio 01 (Soft and Hard Skills)
+
+
+>Exercicio 02 (Auxilio e aprendizagem do excell)
+
+
+>Exercicio 03 (Orçamento Familiar)
+
+
+>Exercicio 04 (Planilha dados abertos)
+
+
+>Exercicio 05 (Planilha para estimativas)
+
+
+>Exercico 06 (Tarefa: Desafio do Power BI -Mais bonito e funcional: quem faz?)
+
+
+>
