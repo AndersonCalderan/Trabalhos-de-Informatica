@@ -12,18 +12,22 @@ TRABALHOS DE INFORMATICA 1 SEMESTRE GPI
 [(clique aqui)](https://github.com/AndersonCalderan/Trabalhos-de-Informatica/blob/main/Tarefas/Soft%20and%20Hard%20Skills.pptx)
 
 >Exercicio 02 (Auxilio e aprendizagem do excell)
-
+[(clique aqui)](https://github.com/AndersonCalderan/Trabalhos-de-Informatica/blob/main/Tarefas/Auxilio%20e%20aprendizagem%20do%20excel..pptx)
 
 >Exercicio 03 (Orçamento Familiar)
+[(clique aqui)](https://github.com/AndersonCalderan/Trabalhos-de-Informatica/blob/main/Tarefas/Or%C3%A7amento%20Familiar%20teste.xlsx)
 
 
 >Exercicio 04 (Planilha dados abertos)
+[(clique aqui)](https://github.com/AndersonCalderan/Trabalhos-de-Informatica/blob/main/Tarefas/Planilha%20Anderson%20dados%20Abertos.xlsm)
 
 
 >Exercicio 05 (Planilha para estimativas)
+[(clique aqui)](https://github.com/AndersonCalderan/Trabalhos-de-Informatica/blob/main/Tarefas/EMPRESA%20Coxinhando.xlsx)
 
 
 >Exercico 06 (Tarefa: Desafio do Power BI -Mais bonito e funcional: quem faz?)
+[(clique aqui)](https://github.com/AndersonCalderan/Trabalhos-de-Informatica/blob/main/Tarefas/PowerBi%20Anne%20e%20Anderson.pbix)
 
 
->
+
