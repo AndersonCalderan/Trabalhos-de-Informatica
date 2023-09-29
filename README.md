@@ -9,7 +9,7 @@
 TRABALHOS DE INFORMATICA 1 SEMESTRE GPI
 
 >Exercicio 01 (Soft and Hard Skills)
-
+[(clique aqui)](https://github.com/AndersonCalderan/Trabalhos-de-Informatica/blob/main/Tarefas/Soft%20and%20Hard%20Skills.pptx)
 
 >Exercicio 02 (Auxilio e aprendizagem do excell)
 
