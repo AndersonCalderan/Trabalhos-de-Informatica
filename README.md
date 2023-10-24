@@ -30,7 +30,7 @@ TRABALHOS DE INFORMATICA 1 SEMESTRE GPI
 [(clique aqui)](https://github.com/AndersonCalderan/Trabalhos-de-Informatica/blob/main/Tarefas/PowerBi%20Anne%20e%20Anderson.pbix)
 
 >Exercicio 06 (Aplicativo Power Apps)
-[(clique aqui)]()
+[(clique aqui)](https://github.com/AndersonCalderan/Trabalhos-de-Informatica/raw/main/Tarefas/Aplicativo-de-cadastro-by(Anderson).msapp)
 
 https://youtu.be/1OV13d0wpNY
 
