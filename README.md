@@ -32,4 +32,7 @@ TRABALHOS DE INFORMATICA 1 SEMESTRE GPI
 >Exercicio 06 (Aplicativo Power Apps)
 [(clique aqui)]()
 
+https://youtu.be/1OV13d0wpNY
+
+
 
