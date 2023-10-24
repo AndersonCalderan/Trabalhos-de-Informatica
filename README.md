@@ -29,5 +29,7 @@ TRABALHOS DE INFORMATICA 1 SEMESTRE GPI
 >Exercico 06 (Tarefa: Desafio do Power BI -Mais bonito e funcional: quem faz?)
 [(clique aqui)](https://github.com/AndersonCalderan/Trabalhos-de-Informatica/blob/main/Tarefas/PowerBi%20Anne%20e%20Anderson.pbix)
 
+>Exercico 06 (Tarefa:Aplicativo Power Apps)
+[(clique aqui)]()
 
 
