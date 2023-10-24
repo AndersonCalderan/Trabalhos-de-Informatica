@@ -32,7 +32,9 @@ TRABALHOS DE INFORMATICA 1 SEMESTRE GPI
 >Exercicio 06 (Aplicativo Power Apps) Download:
 [(clique aqui)](https://github.com/AndersonCalderan/Trabalhos-de-Informatica/raw/main/Tarefas/Aplicativo-de-cadastro-by(Anderson).msapp)
 
-https://youtu.be/1OV13d0wpNY
+[![SPRINT 2](https://img.youtube.com/vi/1OV13d0wpNY/0.jpg)](https://youtu.be/1OV13d0wpNY)
+
+
 
 
 
