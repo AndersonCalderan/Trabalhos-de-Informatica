@@ -8,31 +8,31 @@
 
 TRABALHOS DE INFORMATICA 1 SEMESTRE GPI
 
->Exercicio 01 (Soft and Hard Skills)
+>✔️Exercicio 01 (Soft and Hard Skills)
 [(clique aqui)](https://github.com/AndersonCalderan/Trabalhos-de-Informatica/blob/main/Tarefas/Soft%20and%20Hard%20Skills.pptx)
 
->Exercicio 02 (Auxilio e aprendizagem do excell)
+>✔️Exercicio 02 (Auxilio e aprendizagem do excell)
 [(clique aqui)](https://github.com/AndersonCalderan/Trabalhos-de-Informatica/blob/main/Tarefas/Auxilio%20e%20aprendizagem%20do%20excel..pptx)
 
->Exercicio 03 (Orçamento Familiar)
+>✔️Exercicio 03 (Orçamento Familiar)
 [(clique aqui)](https://github.com/AndersonCalderan/Trabalhos-de-Informatica/blob/main/Tarefas/Or%C3%A7amento%20Familiar%20teste.xlsx)
 
 
->Exercicio 04 (Planilha dados abertos)
+>✔️Exercicio 04 (Planilha dados abertos)
 [(clique aqui)](https://github.com/AndersonCalderan/Trabalhos-de-Informatica/blob/main/Tarefas/Planilha%20Anderson%20dados%20Abertos.xlsm)
 
 
->Exercicio 05 (Planilha para estimativas)
+>✔️Exercicio 05 (Planilha para estimativas)
 [(clique aqui)](https://github.com/AndersonCalderan/Trabalhos-de-Informatica/blob/main/Tarefas/EMPRESA%20Coxinhando.xlsx)
 
 
->Exercicio 06 (Desafio do Power BI -Mais bonito e funcional: quem faz?)
+>✔️Exercicio 06 (Desafio do Power BI -Mais bonito e funcional: quem faz?)
 [(clique aqui)](https://github.com/AndersonCalderan/Trabalhos-de-Informatica/blob/main/Tarefas/PowerBi%20Anne%20e%20Anderson.pbix)
 
->Exercicio 06 (Aplicativo Power Apps) Download:
+>✔️Exercicio 06 (Aplicativo Power Apps) Download:
 [(clique aqui)](https://github.com/AndersonCalderan/Trabalhos-de-Informatica/raw/main/Tarefas/Aplicativo-de-cadastro-by(Anderson).msapp)
 
-[![SPRINT 2](https://img.youtube.com/vi/1OV13d0wpNY/0.jpg)](https://youtu.be/1OV13d0wpNY)
+[![SPRINT ](https://img.youtube.com/vi/1OV13d0wpNY/0.jpg)](https://youtu.be/1OV13d0wpNY)
 
 
 
