@@ -35,6 +35,7 @@ TRABALHOS DE INFORMATICA 1 SEMESTRE GPI
 [![SPRINT ](https://img.youtube.com/vi/1OV13d0wpNY/0.jpg)](https://youtu.be/1OV13d0wpNY)
 
 
->Exercicio 07 (Power Automate: tutorial ou fluxo)
- 
+>✔️Exercicio 07 (Power Automate: tutorial ou fluxo)
+
+ https://www.loom.com/share/78b713ad4eec46e19f382fbbc558fe1d?sid=f00b1c54-302e-4f3c-a034-5c4e9a004b0f
 
